@@ -4,7 +4,7 @@ window.addEventListener("load" , function()
     setTimeout(() =>
     {
       loader.style.display="none";
-    },200);
+    },1000);
 })
 
 var username = document.getElementById("username");
