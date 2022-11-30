@@ -8,9 +8,6 @@ window.addEventListener("load" , function()
     },1000);
 })
 
-
-
-
 var username = document.getElementById("username");
 var password = document.getElementById("password");
 var popupSection = document.getElementById("popUpSection")
