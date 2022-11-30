@@ -4,8 +4,12 @@ window.addEventListener("load" , function()
     setTimeout(() =>
     {
       loader.style.display="none";
+      
     },1000);
 })
+
+
+
 
 var username = document.getElementById("username");
 var password = document.getElementById("password");
