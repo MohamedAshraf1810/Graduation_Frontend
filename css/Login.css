@@ -288,7 +288,7 @@ span.psw
 
 /* Media Query */
 
-@media (max-width: 480px) 
+@media (max-width: 1024px)
 {
     .BDFSection
     {
@@ -341,4 +341,16 @@ span.psw
         margin-right: 50px;
     }
     
+}
+
+@media (min-width: 1025px) and (max-width: 1280px)
+{
+    .S1Cn1D1spn1
+    {
+        font-size: 10;
+    }
+    .S1Cn1D1spn2
+    {
+        font-size: 25px;
+    }
 }
