@@ -5,7 +5,7 @@ window.addEventListener("load" , function()
     {
       loader.style.display="none";
       
-    },2000);
+    },1);
 })
 
 var username = document.getElementById("username");
